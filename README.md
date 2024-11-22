@@ -54,5 +54,5 @@ Check out the app in action: [Demo on YouTube](https://youtube.com/shorts/ihLC1z
 ---
 
 ## 📸 Screenshots
-<img src="capture/home.png" alt="Home Screen" width="600" />
-<img src="capture/choose_currency.png" alt="Choose Currency Screen" width="600" />
+<img src="capture/home.png" alt="Home Screen" width="300" />
+<img src="capture/choose_currency.png" alt="Choose Currency Screen" width="300" />
